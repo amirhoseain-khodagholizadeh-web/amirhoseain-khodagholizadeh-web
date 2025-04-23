@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amirhoseain-khodagholizadeh-4737b8352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhoseain-khodagholizadeh-4737b8352" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amirhoseain-khodagholizadeh-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhoseain-khodagholizadeh-web" height="30" width="40" /></a>
 <a href="https://instagram.com/amirhoseain-kh.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirhoseain-kh.web" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhoseain-khodagholizadeh-web&show_icons=true&locale=en" alt="amirhoseain-khodagholizadeh-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhoseain-khodagholizadeh-web&" alt="amirhoseain-khodagholizadeh-web" /></p>
-
