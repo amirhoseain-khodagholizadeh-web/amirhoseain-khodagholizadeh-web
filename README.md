@@ -3,9 +3,7 @@
 <h3 align="center">A Frontend developer from Iran</h3>
 
 
-
-<img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%"/>
-
+<div align="center"><img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%"/></div>
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseain-khodagholizadeh-web&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseain-khodagholizadeh-web" /> </p>
